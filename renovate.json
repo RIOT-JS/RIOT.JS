@@ -1,0 +1,5 @@
+{
+  "extends": [":semanticCommits"],
+  "prHourlyLimit": 0,
+  "prCreation": "immediate"
+}
